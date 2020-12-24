@@ -1,21 +1,8 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/omarnaffaa/omarnaffaa/master/profile.gif)](https://omarnaffaa.github.io/Portfolio/)
 
-<!--
-**OmarNaffaa/OmarNaffaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a computer engineering major at Cal Poly Pomona working on a wide variety of projects including:
-- Graphical User Interface (GUI) development to display data acquired from sensors
-- Embedded systems / bare metal programming
-- Hardware development using Verilog / System Verilog
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=c%2B%2B)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=java)
