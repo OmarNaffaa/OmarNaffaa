@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a computer engineering major at Cal Poly Pomona working on a wide variety of projects including:
+- Graphical User Interface (GUI) development to display data acquired from sensors
+- Embedded systems / bare metal programming
+- Hardware development using Verilog / System Verilog
