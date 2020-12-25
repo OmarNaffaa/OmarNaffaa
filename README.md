@@ -3,6 +3,7 @@
 ### Languages
 
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=c%2B%2B)
+[![Verilog](https://img.shields.io/badge/-Verilog-%23000)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=Verilog)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/omarnaffaa?tab=repositories&q=&type=&language=java)
